@@ -110,9 +110,6 @@ Below is the planned roadmap for completing and integrating all features into th
 - [ ] Reports Generation
 - [ ] Unit Tests Integration
 
-## How to Update the Dashboard
-Each time you release an update, simply review this checklist and update the corresponding checkboxes to reflect the new features available in the dashboard. This helps users quickly see the current capabilities and future plans of the package.
-
 ---
 
 *Note:* The Developer Dashboard Package is built as a collection of modular packages, ensuring each component can be developed, maintained, and updated independently. Our goal is to provide a comprehensive, secure, and high-performance dashboard that evolves with the needs of modern development teams.
